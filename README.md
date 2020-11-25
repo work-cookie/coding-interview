@@ -6,3 +6,6 @@
 
 ## Linkedlists
 1. [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
+
+## Dynamic Programming
+1. [Coin Change](https://leetcode.com/problems/coin-change/)
