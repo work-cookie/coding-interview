@@ -9,3 +9,6 @@
 
 ## Dynamic Programming
 1. [Coin Change](https://leetcode.com/problems/coin-change/)
+
+## String Matching
+1. Rabin-Karp
