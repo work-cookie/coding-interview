@@ -12,3 +12,4 @@
 
 ## String Matching
 1. Rabin-Karp
+2. [KMP substring search](https://leetcode.com/problems/implement-strstr/)
